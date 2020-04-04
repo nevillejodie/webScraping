@@ -1,0 +1,17 @@
+{
+  "name": "scraping-goodreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "goodreads-scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
